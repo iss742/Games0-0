@@ -50,7 +50,7 @@ const locations = [
     name: "store",
     "button text": ["Buy 10 health (10 gold)", "Buy weapon (30 gold)", "Go to town square"],
     "button functions": [buyHealth, buyWeapon, goTown],
-    text: "You enter the store."
+    text: "You step into the store, the dim light casting shadows on the shelves filled with weapons. Your eyes settle on a simple dagger, its blade sharp and ready for battle. "
   },
   {
     name: "cave",
